@@ -1,12 +1,8 @@
-# titulo principal
-
-## titulo secundario
-- item1
-- item2
-- item3
-- [teste](http://bit.ly/contecontrole)
+# Links
 
 
-```js
-alert("teste");
-```
+- [Editor de código](http://bit.ly/contecontrole)
+- [Criar conta](https://github.com) 
+- [Baixar Git](https://git-scm.com/download/win) 
+- [Markdown](https://www.markdownguide.org/cheat-sheet) 
+- [GitHub Student Pack](https://education.github.com/pack) 
